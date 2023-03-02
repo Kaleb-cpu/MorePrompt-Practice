@@ -1,4 +1,4 @@
-const billTotal = 40;
+// const billTotal = 40;
 
 // defined tipRate as default on the function
 // const tipRate = 0.18;
